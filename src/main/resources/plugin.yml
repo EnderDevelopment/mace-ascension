@@ -1,0 +1,5 @@
+name: OreMace
+version: 26.2
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: A kill-to-upgrade mace progression plugin for Paper 26.2.
